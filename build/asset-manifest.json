@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01db53ec.chunk.css",
+    "main.js": "/static/js/main.b96c2180.chunk.js",
+    "main.js.map": "/static/js/main.b96c2180.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b254851e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b254851e.js.map",
+    "static/js/2.a63a9dfa.chunk.js": "/static/js/2.a63a9dfa.chunk.js",
+    "static/js/2.a63a9dfa.chunk.js.map": "/static/js/2.a63a9dfa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.09891139da8b1ee91e5399f1a0bddd2c.js": "/precache-manifest.09891139da8b1ee91e5399f1a0bddd2c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.01db53ec.chunk.css.map": "/static/css/main.01db53ec.chunk.css.map",
+    "static/media/1.gif": "/static/media/1.aa8bc7df.gif",
+    "static/media/4.gif": "/static/media/4.3f259006.gif",
+    "static/media/bitlogo.png": "/static/media/bitlogo.c868aacd.png",
+    "static/media/hero.jpg": "/static/media/hero.fa44ea4b.jpg",
+    "static/media/style.css": "/static/media/newslatter.77b3fed3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b254851e.js",
+    "static/js/2.a63a9dfa.chunk.js",
+    "static/css/main.01db53ec.chunk.css",
+    "static/js/main.b96c2180.chunk.js"
+  ]
+}
